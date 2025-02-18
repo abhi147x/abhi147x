@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi23zc&label=Profile%20views&color=0e75b6&style=flat" alt="abhi23zc" /> </p>
+<img src ="https://firebasestorage.googleapis.com/v0/b/drop-63cab.appspot.com/o/files%2FHR%20manager%20animation.gif?alt=media&token=6aaf76fd-4596-4382-9ac9-296a493759bf" align="right" alt="Coding" width="400"> 
 
 - 🌱 I’m currently learning **BlockChain and Machine Learning**
 
